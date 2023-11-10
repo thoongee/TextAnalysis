@@ -2,7 +2,7 @@
 2023-1 text analysis class
 
 ## 1. Overview
-This is a team project for the Text Data Analytics class (← Is this English...? Check out the syllabus). E-commerce companies are attracting premium brands to increase customers, sales, and profitability. We planned this project to find answers to the following questions by comparing C.avenue products, a collection of premium brands from a leading Korean e-commerce company, with regular products.  
+This is a team project for the Text Data Analytics class. E-commerce companies are attracting premium brands to increase customers, sales, and profitability. We planned this project to find answers to the following questions by comparing C.avenue products, a collection of premium brands from a leading Korean e-commerce company, with regular products.  
   - Do customers perceive premium brands selected by e-commerce companies differently from generic products?  
   - If customers perceive it differently, what makes it different from the norm?  
 
